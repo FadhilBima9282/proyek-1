@@ -1,2 +1,8 @@
-# proyek-1
-Kalkulator prediksi beban SKS dan waktu belajar harian
+# Kalkulator SKS
+
+Menghitung estimasi jam belajar harian berdasarkan beban SKS mahasiswa.
+
+## Cara Menjalankan
+```bash
+python main.py
+
